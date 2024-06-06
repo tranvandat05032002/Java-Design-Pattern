@@ -2,7 +2,7 @@ package com.tvdat.Domain.MODELS.Layer;
 
 import com.tvdat.Domain.MODELS.Cafe.Cafe;
 
-public abstract class LayerOfCafe extends Cafe {
+public abstract class LayerOfCafe extends Cafe { // IS-A
 	protected Cafe cafe; // HAS-A
 	
 	public Cafe getCafe() {

@@ -10,7 +10,7 @@ public class StateYenLang implements PhoneState {
 		System.out.printf("OnCalling: [\n");
 		Utils.rung();
 		System.out.printf("]\n");
-		
+			
 	}
 
 	@Override

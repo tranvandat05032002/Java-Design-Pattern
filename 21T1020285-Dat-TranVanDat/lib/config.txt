@@ -1,2 +1,2 @@
 TEXT_FILE
-/Users/spiderman/Documents/DHKH_2021-2025/DP_Java/21T1020285-Dat-TranVanDat/lib/sinhvien.txt
+/Users/spiderman/Documents/DHKH_2021-2025/DP_Java/21T1020285-Dat-TranVanDat/OnTap/lib/sinhvien.txt

@@ -1,7 +1,7 @@
 package com.tvdat.dp.Domain.MODELS;
 // context
 public class Phone {
-	private PhoneState state;
+	private PhoneState state;  // HAS-A
 	
 	public void onCalling() {
 		this.state.onCalling();

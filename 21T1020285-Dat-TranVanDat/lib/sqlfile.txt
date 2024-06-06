@@ -1,0 +1,2 @@
+SQL_FILE
+/Users/spiderman/Documents/DHKH_2021-2025/SQL_Server/SinhVien.db

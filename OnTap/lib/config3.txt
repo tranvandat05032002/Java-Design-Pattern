@@ -1,0 +1,2 @@
+MY_SQLServer
+jdbc:mysql://localhost;3306/SinhVienDB

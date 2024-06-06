@@ -24,7 +24,7 @@ public class ChuongTrinh {
 	}
 	public static void main(String[] args) {
 		ChuongTrinh ct = new ChuongTrinh();
-		CauHinh cfg = CauHinh.getInstance("/Users/spiderman/Documents/DHKH_2021-2025/DP_Java/21T1020285-Dat-TranVanDat/lib/config.txt");
+		CauHinh cfg = CauHinh.getInstance("/Users/spiderman/Documents/DHKH_2021-2025/DP_Java/21T1020285-Dat-TranVanDat/lib/sqlfile.txt");
 		SinhVienRepo repo = new SinhVienRepoFactory().createSinhVienRepo(cfg);
 		SinhVien sv01 = new SinhVien("21T1020313", "Trần Hoài Bão", true, Date.valueOf("2003-10-20"));
 // 		selectAll		
